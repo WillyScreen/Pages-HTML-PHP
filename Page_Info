@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <title>About us</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js"></script>
+</head>
+
+<body>
+	<h1> About us </h1>
+
+		<h2> Dévloppement du sîte </h2>
+
+			<p1> blabla a propos du dvpmt du site </p1>
+
+		<h2> Source </h2>
+			<h3> Bibliographie </h3>
+				<p2> blabla a propos de book </p2>
+			<h3> Webographie </h3>
+				<p2> blabla a propos de site web </p2>
+
+		<h2> Auteurs </h2>
+
+			<p1> blabla a propos des auteurs </p1>
+
+</body>
+</html>
