@@ -14,5 +14,4 @@ if (isset($_POST['inscription']) && $_POST['inscription'] == 'Inscription') {
 	{
         	die('Erreur : ' . $e->getMessage());
 	}
-		coucou
 ?>
